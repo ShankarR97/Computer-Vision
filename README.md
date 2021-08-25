@@ -9,15 +9,20 @@ Computer vision needs lots of data. It runs analyses of data over and over until
 # Computer Vision History
 Scientists and engineers have been trying to develop ways for machines to see and understand visual data for about 60 years. Experimentation began in 1959 when neurophysiologists showed a cat an array of images, attempting to correlate a response in its brain.
 
-# 1974, The introduction of optical character recognition (OCR) technology, which could recognize text printed in any font or typeface.
+# 1974, 
+            The introduction of optical character recognition (OCR) technology, which could recognize text printed in any font or typeface.
 
-# 1982, neuroscientist David Marr established that vision works hierarchically and introduced algorithms for machines to detect edges, corners, curves and similar basic shapes. 
+# 1982, 
+            Neuroscientist David Marr established that vision works hierarchically and introduced algorithms for machines to detect edges, corners, curves and similar basic shapes. 
 
-# 2000, the focus of study was on object recognition, and by 2001, the first real-time face recognition applications appeared. Standardization of how visual data sets are tagged and annotated emerged through the 2000s. 
+# 2000, 
+            The focus of study was on object recognition, and by 2001, the first real-time face recognition applications appeared. Standardization of how visual data sets are tagged and annotated emerged through the 2000s. 
 
-# 2010, the ImageNet data set became available. It contained millions of tagged images across a thousand object classes and provides a foundation for CNNs and deep learning models used today.
+# 2010, 
+            The ImageNet data set became available. It contained millions of tagged images across a thousand object classes and provides a foundation for CNNs and deep learning models used today.
 
-# 2012, a team from the University of Toronto entered a CNN into an image recognition contest. The model, called AlexNet, significantly reduced the error rate for image recognition.
+# 2012, 
+            A team from the University of Toronto entered a CNN into an image recognition contest. The model, called AlexNet, significantly reduced the error rate for image recognition.
 
 # Top 5 Computer Vision Applications
 
